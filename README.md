@@ -1,6 +1,6 @@
 
 
-# Lukasz Marchlewicz
+# Łukasz Marchlewicz
 
 **Aspiring Data Scientist / AI Engineer with 15+ years of business experience**
 
@@ -20,7 +20,7 @@ For over 15 years I ran my own stone processing and manufacturing business in Po
 Alongside this, I am also building a second business in visual media –  
 **aerial cinematography and video production with FPV drones** – under the brand:
 
-- natural stone studio: `lumargo.pl`  
+- natural stone : `lumargo.pl`  
 - filmmaking & drone studio: `studiofilmowania.pl`  
 
 Over time I realised that many of my business decisions were already **data-driven**:  
@@ -48,7 +48,7 @@ I am actively developing my technical skill set and focusing on **end-to-end pro
 **Languages & Tools**
 
 - Python – data analysis, ML prototyping  
-- SQL – basic querying of relational data  
+- SQL – querying of relational data  
 - Advanced Excel – financial / operational analysis  
 - GitHub – version control and project documentation  
 - n8n – low-code orchestration and connecting AI agents with external tools
